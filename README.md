@@ -1,4 +1,5 @@
-# scrcpy (v2.0)
+#Copyright Genymobile - used for an event 
+## scrcpy (v2.0)
 
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
